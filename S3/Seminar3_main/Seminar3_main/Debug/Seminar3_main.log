@@ -1,0 +1,7 @@
+﻿  AutoInMemoryRepository.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\S3\Seminar3_main\Seminar3_main\AutoInMemoryRepository.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\S3\Seminar3_main\Seminar3_main\AutoInMemoryRepository.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\S3\Seminar3_main\Seminar3_main\AutoInMemoryRepository.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\S3\Seminar3_main\Seminar3_main\AutoInMemoryRepository.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\S3\Seminar3_main\Seminar3_main\AutoInMemoryRepository.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  Seminar3_main.vcxproj -> D:\FMI\An1_Sem2\OOP\Seminare\S3\Seminar3_main\Debug\Seminar3_main.exe

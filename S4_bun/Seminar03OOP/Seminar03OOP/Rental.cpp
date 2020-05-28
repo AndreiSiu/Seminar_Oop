@@ -45,6 +45,15 @@ bool Rental::reserve_auto(Kunde person, Auto car, int days)
 	return true;
 }
 
+void Rental::return_auto(Auto a, Kunde p)
+{
+	
+}
+
+void Rental::extend_reservation(Auto a, Kunde p)
+{
+}
+
 void Rental::delete_client(Kunde client)
 {
 	std::vector<Kunde>::iterator ptr;

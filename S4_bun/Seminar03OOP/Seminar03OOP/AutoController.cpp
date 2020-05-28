@@ -75,6 +75,17 @@ void AutoController::show() {
 	}
 }
 
-void AutoController::sort() {
+/*void AutoController::sortAutos() {
 	this->repo.sort_autos();
+}*/
+
+void AutoController::sort_autos() {
+	std::vector<Auto> vec = this->findAll();
+	sort(vec.begin(), vec.end(),sort_by_marke());
+	//sorter->sort(findAll());
+}
+
+void AutoController::set_sorter(Sorter* srt)
+{
+	sorter = srt;
 }

@@ -4,6 +4,9 @@
 #include "Kunde.h"
 #include "AutoInMemoryRepository.h"
 #include <iostream>
+#include <algorithm>
+#include "Utils.h"
+#include "Sorter.h"
 
 class AutoController
 {
@@ -11,6 +14,17 @@ class AutoController
 		AutoInMemoryRepository repo;
 		//the way to make this unique(singleton)
 		static AutoController* instance;
+
+		Sorter* sorter;
+
+		//Seminar6 
+		/*	
+			infoAuto:
+			0-new
+			1-extended
+			2-deleted
+		*/
+		int infoAuto;
 
 	public:
 		AutoController();
@@ -41,6 +55,13 @@ class AutoController
 
 		void show();
 
-		void sort();
+		//fur seminar 6
+		void sort_autos();
+
+		void set_sorter(Sorter* srt);
+
+		int GetInfo() { return this->infoAuto; }
+
+		void SetInfo(int value) { this->infoAuto = value; }
 };
 

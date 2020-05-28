@@ -71,4 +71,11 @@ public:
 
 	bool reserve_auto(Kunde person, Auto car, int days);
 
+	///Seminar 6
+	//bearbeitet infoAuto, macht est zum 2
+	void return_auto(Auto a, Kunde p);
+
+	//bearbeitet infoAuto, macht est zum 1
+	void extend_reservation(Auto a, Kunde p);
+
 };

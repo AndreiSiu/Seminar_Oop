@@ -1,0 +1,46 @@
+﻿  Auto.cpp
+  AutoController.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(32,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(45,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(55,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(64,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\AutoController.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\AutoController.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\AutoController.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+  BubbleSorter.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\BubbleSorter.cpp(8,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\BubbleSorter.cpp(10,22): warning C4018: '<': signed/unsigned mismatch
+  crudRepo.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(32,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(45,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(55,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(64,21): warning C4018: '<': signed/unsigned mismatch
+  Kunde.cpp
+  LKW.cpp
+  PKW.cpp
+  Rental.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\Rental.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\Rental.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+  Reservierung.cpp
+  Seminar7.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(32,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(45,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(55,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(64,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\Seminar7.cpp(82,23): warning C4018: '<': signed/unsigned mismatch
+  StandardSorter.cpp
+  statistic.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\statistic.cpp(16,20): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\statistic.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+  UI.cpp
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(32,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(45,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(55,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\crudRepo.h(64,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\UI.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\UI.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\AutoController.cpp(70): warning C4715: 'AutoController::saveAuto': not all control paths return a value
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\AutoController.cpp(86): warning C4715: 'AutoController::updateAuto': not all control paths return a value
+D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Seminar7\AutoController.cpp(99): warning C4715: 'AutoController::deleteAuto': not all control paths return a value
+  Seminar7.vcxproj -> D:\FMI\An1_Sem2\OOP\Seminare\Seminar7\Debug\Seminar7.exe

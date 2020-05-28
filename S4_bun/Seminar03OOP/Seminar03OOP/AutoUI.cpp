@@ -57,7 +57,7 @@ void AutoUI::AutoMenu()
 		}
 		else if (key == 6) {
 
-			AutoController::GetInstance()->sort();
+			AutoController::GetInstance()->sortAutos();
 
 		}
 		else if (key == 0)

@@ -142,24 +142,30 @@
     <ClCompile Include="AutoController.cpp" />
     <ClCompile Include="AutoInMemoryRepository.cpp" />
     <ClCompile Include="AutoUI.cpp" />
+    <ClCompile Include="BubbleSorter.cpp" />
     <ClCompile Include="Kunde.cpp" />
     <ClCompile Include="LKW.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="PKW.cpp" />
     <ClCompile Include="Rental.cpp" />
     <ClCompile Include="Reserve.cpp" />
+    <ClCompile Include="StandardSorter.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Auto.h" />
     <ClInclude Include="AutoController.h" />
     <ClInclude Include="AutoInMemoryRepository.h" />
     <ClInclude Include="AutoUI.h" />
+    <ClInclude Include="BubbleSorter.h" />
     <ClInclude Include="Kunde.h" />
     <ClInclude Include="LKW.h" />
     <ClInclude Include="PKW.h" />
     <ClInclude Include="Rental.h" />
     <ClInclude Include="Reserve.h" />
+    <ClInclude Include="Sorter.h" />
+    <ClInclude Include="StandardSorter.h" />
     <ClInclude Include="UserMenu.h" />
+    <ClInclude Include="Utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
